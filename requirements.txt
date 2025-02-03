@@ -1,0 +1,5 @@
+pip install flask
+pip install sqlite3
+pip install requests
+pip install uuid
+pip install re
